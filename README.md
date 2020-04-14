@@ -1,1 +1,1 @@
-VkUtil
+A windows wrapper for Vulkan.
